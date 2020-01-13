@@ -1,0 +1,103 @@
+body {
+    font-family:'Raleway';
+    background-color: rgb(160, 157, 157);
+
+}
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+    text-align: center;     
+}
+
+.readme-wrapper :hover {
+    font-style: bold;
+    color: chartreuse;
+    cursor: pointer;
+    
+}
+
+.font-weight-color {
+    font-weight: 700;
+    color: red;
+}
+
+.boxes {
+    display: block;
+    margin: 10px 8px;
+    padding: 10px;
+    border: solid white;
+    border-radius: 30%;
+    width: 30em;
+      
+}
+#box1 {
+    background-color: blue;
+}
+
+
+#box2 {
+    background-color: plum;
+
+}
+
+#box3 {
+    background-color: yellow;
+}
+
+#box4 {
+    background-color: whitesmoke;
+}
+.images {
+    height: 50px;
+    width: 50px;
+    border: 50px;
+    border-radius: 50px;
+    background-color: teal;
+    position: relative;
+    top: 50px;
+    left: 100px;
+
+}
+h1 {
+    color: tomato;
+}
+.original {
+    color: violet;
+}
+.additional {
+    color: lightblue;
+}
+#rank1 {
+    color: lightseagreen;
+}
+#rank2 {
+    color: linen;
+}
+#rank3 {
+    color: mediumvioletred;
+}
+#rank4 {
+    color: orangered;
+}
+#rank5 {
+    color: palevioletred;
+}
+
+ul {
+    color: rebeccapurple;
+}
+.star {
+    color: saddlebrown;
+}
+.wars {
+    color: silver;
+}
+.borders {
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+
+}
